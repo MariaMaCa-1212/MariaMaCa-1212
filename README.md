@@ -15,8 +15,12 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/92/57/6d/92576d238f5fd179e7264d9ae6fc5568.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/bd/76/5d/bd765def594d116af21de47493771cf6.gif"  />
 </div>
+
+###
+
+<h1 align="center"><span style="color:#8A2BE2"> HELLO WORLD</h1></span>
 
 ###
 
@@ -68,11 +72,6 @@
   <a href="https://open.spotify.com/user/ac48t51n7e8h57fj9lgjw08hs">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ac48t51n7e8h57fj9lgjw08hs&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
