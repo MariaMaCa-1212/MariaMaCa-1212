@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy María, estudiante de un Grado Superior de Desarrollo de Aplicaciones Web (DAW) y apasionada por el mundo de la programación. 👩🏽‍💻💜</p>
+<p align="left">Soy María, estudiante de un Grado Superior de Desarrollo de Aplicaciones Web (DAW) y apasionada por el mundo de la programación. 👩🏽‍💻</p>
 
 ###
 
